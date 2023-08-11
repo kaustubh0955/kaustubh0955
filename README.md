@@ -3,7 +3,6 @@
 <h3 align="center">A passionate frontend developer, currently working on my backend skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=OIP.VON9gHTrzeHZbHfXsqfzEAHaEq&pid=Api&P=0&h=180"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubh0955&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubh0955" /> </p>
 
 - 🔭 I’m currently working on **Forkify App**
 
