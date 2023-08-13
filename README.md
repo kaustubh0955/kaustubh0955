@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **FRONTEND DEVELOPMENT,FOOTBALL**
+- 💬 Ask me about **FRONTEND DEVELOPMENT📑, FOOTBALL⚽**
 
 - 📫 How to reach me **kaustubhrai0955@gmail.com**
 
