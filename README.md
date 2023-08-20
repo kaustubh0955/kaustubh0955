@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)
+[MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Hi 👋, I'm Kaustubh Rai</h1>
 <h3 align="center">A passionate frontend developer, currently working on my backend skills.</h3>
 <img align="right" alt="Coding" width="400" src="http://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif"/>
