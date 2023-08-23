@@ -3,8 +3,6 @@
 <h3 align="center">A passionate frontend developer, currently working on my backend skills.</h3>
 <img align="right" alt="Coding" width="400" src="http://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif"/>
 
-
-
 - 🔭 I’m currently working on **Forkify App**
 
 - 🌱 I’m currently learning **NodeJs**
@@ -13,9 +11,11 @@
 
 - 📫 How to reach me **kaustubhrai0955@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lCCj93pXvDcbctHbpdPazzJ2nFjrguqO/view?usp=drive_link](https://drive.google.com/file/d/1lCCj93pXvDcbctHbpdPazzJ2nFjrguqO/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaustubh-rai-422950230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaustubh-rai-422950230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kaustubh-rai-422950230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-rai-422950230/" height="30" width="40" /></a>
 <a href="https://instagram.com/kaustubh_27_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaustubh_27_" height="30" width="40" /></a>
 </p>
 
