@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src="http://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif"/>
 
-- 🔭 I’m currently working on **Forkify App**
+- 🔭 I’m currently working on **ML & AI**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **FRONTEND DEVELOPMENT**
+- 💬 Ask me about **WEB DEVELOPMENT,ML**
 
 - 📫 How to reach me **kaustubhrai0955@gmail.com**
 
