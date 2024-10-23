@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kaustubhrai0955@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EHG7lPdWwflEgl-E3Xgpni1MUUwDYUaF/view?usp=share_link](https://drive.google.com/file/d/1EHG7lPdWwflEgl-E3Xgpni1MUUwDYUaF/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EHG7lPdWwflEgl-E3Xgpni1MUUwDYUaF/view?usp=share_link](https://drive.google.com/file/d/1w7NUJGSWtnHjaLH40DyQI6D99bYqoKBR/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
